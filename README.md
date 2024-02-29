@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,What's Up?</h1>
-<h3 align="center">👉I Mazin,an Aspiring Future ELECTRICAL EV Engineer With ML- Data Science Workflow from INDIA .</h3>
+<h3 align="center">👉I'm a Sophomore at RGIPT (an INI) pursuing Electrical Engineering(Major Electric-vehicle), and learning new skills along the way. Working towards my aim to bring about a positive change in this industrial world. .</h3>
 <img align="right" alt="Coding" width="400"
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyeYXOAAOMSe5nhnSCfVpjxh2mqvMvv-GLQ&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazin1921&label=Profile%20views&color=0e75b6&style=flat" alt="mazin1921" /> </p>
