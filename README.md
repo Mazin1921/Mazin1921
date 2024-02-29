@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,What's Up?</h1>
+<h1 align="center">Hi 👋,Mazin this side!</h1>
 <h3 align="center">👉I'm a Sophomore at RGIPT (an INI) pursuing Electrical Engineering(Major Electric-vehicle), and learning new skills along the way. Working towards my aim to bring about a positive change in this real world.</h3>
 <img align="right" alt="Coding" width="400"
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyeYXOAAOMSe5nhnSCfVpjxh2mqvMvv-GLQ&usqp=CAU">
