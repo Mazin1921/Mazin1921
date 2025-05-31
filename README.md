@@ -1,12 +1,9 @@
-# 👋 Welcome to my GitHub!
-
-🎓 Final-Year Electrical Engineering Undergrad @ **RGIPT (INI – Institute of National Importance)**  
-🔋 EV + AI Enthusiast | 💡 Passionate about GenAI, LLMs, Data Science & Product Innovation  
-🌱 Always striving to **learn**, **build**, and **connect**
 
 
-<img align="right" alt="Banner" width="400" src="https://raw.githubusercontent.com/Mazin1921/Mazin1921/main/banner.png
-">
+
+![banner](https://github.com/user-attachments/assets/9cb0069f-9957-44a1-b798-a2f269dcea13)
+
+
 
 
 <p align="left">
